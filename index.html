@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Lakshay Chauhan — open-source contributions.">
+  <title>Lakshay Chauhan — Open Source Contributions</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="shell nav">
+      <a class="brand" href="./">nos1dot618<span>/osc</span></a>
+      <a class="github-link" href="https://github.com/nos1dot618" target="_blank" rel="noreferrer">GitHub ↗</a>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <p class="eyebrow">OPEN SOURCE CONTRIBUTIONS</p>
+      <h1>Lakshay's<br><em>open-source contributions.</em></h1>
+      <p class="lede">
+        A chronological record of pull requests, code reviews, issues, and commits
+        across open-source projects. <strong>Contributions to my own repositories are
+        excluded to keep the numbers representative of external open-source work.</strong>
+      </p>
+    </section>
+
+    <section class="stats" id="stats" aria-label="Contribution summary">
+      <div><b id="count-total">—</b><span>contributions</span></div>
+      <div><b id="count-repos">—</b><span>repositories</span></div>
+      <div><b id="count-orgs">—</b><span>owners / orgs</span></div>
+      <div><b id="updated">—</b><span>last updated</span></div>
+    </section>
+
+    <section class="controls">
+      <div class="filters" role="group" aria-label="Contribution filters">
+        <button class="filter active" data-type="all">All</button>
+        <button class="filter" data-type="pr">Pull requests</button>
+        <button class="filter" data-type="review">Reviews</button>
+        <button class="filter" data-type="issue">Issues</button>
+        <button class="filter" data-type="commit">Commits</button>
+      </div>
+      <label class="search">
+        <span>⌕</span>
+        <input id="search" type="search" placeholder="Filter repositories, titles, owners…">
+      </label>
+    </section>
+
+    <div class="integrity">
+      <span class="dot"></span>
+      <span id="integrity-text">Loading contribution data…</span>
+    </div>
+
+    <section id="timeline" class="timeline" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>No contributions match this filter.</p>
+
+    <footer>
+      <span>Source: GitHub public data</span>
+      <span id="footer-updated"></span>
+    </footer>
+  </main>
+  <script src="./app.js"></script>
+</body>
+
+</html>
