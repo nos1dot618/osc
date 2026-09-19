@@ -1,6 +1,5 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T14:53:44.220938+00:00",
   "username": "nos1dot618",
   "policy": {
     "include": [
@@ -19,6 +18,26 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/108230497?u=4eea523cd4b3e6b44d65750e52f86e61841693b4&v=4"
   },
   "events": [
+    {
+      "id": "review:https://github.com/microsoft/mssql-rs/pull/615:2026-09-19T17:22:22Z",
+      "type": "review",
+      "occurredAt": "2026-09-19T17:22:22Z",
+      "title": "Commented review on “test(mssql): add SQL scanner conformance coverage”",
+      "url": "https://github.com/microsoft/mssql-rs/pull/615",
+      "repo": "microsoft/mssql-rs",
+      "owner": "microsoft",
+      "state": "commented"
+    },
+    {
+      "id": "pr:https://github.com/microsoft/mssql-rs/pull/615:2026-09-19T16:08:13Z",
+      "type": "pr",
+      "occurredAt": "2026-09-19T16:08:13Z",
+      "title": "test(mssql): add SQL scanner conformance coverage",
+      "url": "https://github.com/microsoft/mssql-rs/pull/615",
+      "repo": "microsoft/mssql-rs",
+      "owner": "microsoft",
+      "state": "open"
+    },
     {
       "id": "pr:https://github.com/cloudflare/workers-rs/pull/1067:2026-09-19T14:51:55Z",
       "type": "pr",
@@ -160,16 +179,6 @@
       "commitCount": 1
     },
     {
-      "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-07T07:00:00Z",
-      "title": "1 commit to github-linguist/linguist",
-      "url": "https://github.com/github-linguist/linguist/commits",
-      "repo": "github-linguist/linguist",
-      "owner": "github-linguist",
-      "commitCount": 1
-    },
-    {
       "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-07T07:00:00Z",
@@ -177,6 +186,16 @@
       "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
       "repo": "lambda-discipline/lbd-jupyter-kernel",
       "owner": "lambda-discipline",
+      "commitCount": 1
+    },
+    {
+      "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-07T07:00:00Z",
+      "title": "1 commit to github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist/commits",
+      "repo": "github-linguist/linguist",
+      "owner": "github-linguist",
       "commitCount": 1
     },
     {
@@ -190,22 +209,22 @@
       "state": "merged"
     },
     {
-      "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-06T07:00:00Z",
-      "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
-      "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
-      "repo": "lambda-discipline/lbd-emacs-major-mode",
-      "owner": "lambda-discipline",
-      "commitCount": 2
-    },
-    {
       "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-06T07:00:00Z",
       "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
       "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
       "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
+      "owner": "lambda-discipline",
+      "commitCount": 2
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-06T07:00:00Z",
+      "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
+      "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
+      "repo": "lambda-discipline/lbd-emacs-major-mode",
       "owner": "lambda-discipline",
       "commitCount": 2
     },
