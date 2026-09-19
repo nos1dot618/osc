@@ -19,6 +19,26 @@
   },
   "events": [
     {
+      "id": "review:https://github.com/microsoft/mssql-rs/pull/619:2026-09-19T19:27:38Z",
+      "type": "review",
+      "occurredAt": "2026-09-19T19:27:38Z",
+      "title": "Commented review on “test: include mssql-py-core in repository test checks”",
+      "url": "https://github.com/microsoft/mssql-rs/pull/619",
+      "repo": "microsoft/mssql-rs",
+      "owner": "microsoft",
+      "state": "commented"
+    },
+    {
+      "id": "pr:https://github.com/microsoft/mssql-rs/pull/616:2026-09-19T18:07:19Z",
+      "type": "pr",
+      "occurredAt": "2026-09-19T18:07:19Z",
+      "title": "fix(ci): clean up failed mssql-python checkouts",
+      "url": "https://github.com/microsoft/mssql-rs/pull/616",
+      "repo": "microsoft/mssql-rs",
+      "owner": "microsoft",
+      "state": "open"
+    },
+    {
       "id": "review:https://github.com/microsoft/mssql-rs/pull/615:2026-09-19T17:22:22Z",
       "type": "review",
       "occurredAt": "2026-09-19T17:22:22Z",
