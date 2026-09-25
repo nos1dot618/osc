@@ -239,16 +239,6 @@
       "commitCount": 1
     },
     {
-      "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-07T07:00:00Z",
-      "title": "1 commit to lambda-discipline/lbd-jupyter-kernel",
-      "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
-      "repo": "lambda-discipline/lbd-jupyter-kernel",
-      "owner": "lambda-discipline",
-      "commitCount": 1
-    },
-    {
       "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-07T07:00:00Z",
@@ -256,6 +246,16 @@
       "url": "https://github.com/github-linguist/linguist/commits",
       "repo": "github-linguist/linguist",
       "owner": "github-linguist",
+      "commitCount": 1
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-07T07:00:00Z",
+      "title": "1 commit to lambda-discipline/lbd-jupyter-kernel",
+      "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
+      "repo": "lambda-discipline/lbd-jupyter-kernel",
+      "owner": "lambda-discipline",
       "commitCount": 1
     },
     {
