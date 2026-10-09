@@ -19,6 +19,16 @@
   },
   "events": [
     {
+      "id": "commit:microsoft/mssql-rs:2026-10-09T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-10-09T07:00:00Z",
+      "title": "1 commit to microsoft/mssql-rs",
+      "url": "https://github.com/microsoft/mssql-rs/commits",
+      "repo": "microsoft/mssql-rs",
+      "owner": "microsoft",
+      "commitCount": 1
+    },
+    {
       "id": "commit:pardarsh/cppp-collector:2026-10-03T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-10-03T07:00:00Z",
@@ -156,7 +166,7 @@
       "url": "https://github.com/microsoft/mssql-rs/pull/615",
       "repo": "microsoft/mssql-rs",
       "owner": "microsoft",
-      "state": "open"
+      "state": "merged"
     },
     {
       "id": "pr:https://github.com/cloudflare/workers-rs/pull/1067:2026-09-19T14:51:55Z",
