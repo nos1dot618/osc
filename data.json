@@ -19,6 +19,56 @@
   },
   "events": [
     {
+      "id": "commit:lambda-discipline/lambda-discipline.github.io:2026-10-17T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-10-17T07:00:00Z",
+      "title": "11 commits to lambda-discipline/lambda-discipline.github.io",
+      "url": "https://github.com/lambda-discipline/lambda-discipline.github.io/commits",
+      "repo": "lambda-discipline/lambda-discipline.github.io",
+      "owner": "lambda-discipline",
+      "commitCount": 11
+    },
+    {
+      "id": "review:https://github.com/lambda-discipline/lambda-discipline.github.io/pull/1:2026-10-16T19:29:05Z",
+      "type": "review",
+      "occurredAt": "2026-10-16T19:29:05Z",
+      "title": "Approved review on “deps: Bump pre-commit from 4.6.0 to 4.7.0 in the pip-minor group”",
+      "url": "https://github.com/lambda-discipline/lambda-discipline.github.io/pull/1",
+      "repo": "lambda-discipline/lambda-discipline.github.io",
+      "owner": "lambda-discipline",
+      "state": "approved"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/4:2026-10-16T19:00:01Z",
+      "type": "pr",
+      "occurredAt": "2026-10-16T19:00:01Z",
+      "title": "feat: add json flag to docs subcommand (#3)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/4",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/3:2026-10-16T18:56:31Z",
+      "type": "issue",
+      "occurredAt": "2026-10-16T18:56:31Z",
+      "title": "feat: add json flag to docs subcommand for machine-readable builtin reference",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/issues/3",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "closed"
+    },
+    {
+      "id": "commit:lambda-discipline/lambda-discipline:2026-10-16T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-10-16T07:00:00Z",
+      "title": "1 commit to lambda-discipline/lambda-discipline",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/commits",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "commitCount": 1
+    },
+    {
       "id": "commit:lambda-discipline/lambda-discipline:2026-10-12T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-10-12T07:00:00Z",
@@ -399,16 +449,6 @@
       "commitCount": 1
     },
     {
-      "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-07T07:00:00Z",
-      "title": "1 commit to github-linguist/linguist",
-      "url": "https://github.com/github-linguist/linguist/commits",
-      "repo": "github-linguist/linguist",
-      "owner": "github-linguist",
-      "commitCount": 1
-    },
-    {
       "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-07T07:00:00Z",
@@ -416,6 +456,16 @@
       "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
       "repo": "lambda-discipline/lbd-jupyter-kernel",
       "owner": "lambda-discipline",
+      "commitCount": 1
+    },
+    {
+      "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-07T07:00:00Z",
+      "title": "1 commit to github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist/commits",
+      "repo": "github-linguist/linguist",
+      "owner": "github-linguist",
       "commitCount": 1
     },
     {
@@ -429,22 +479,22 @@
       "state": "merged"
     },
     {
-      "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-06T07:00:00Z",
-      "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
-      "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
-      "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
-      "owner": "lambda-discipline",
-      "commitCount": 2
-    },
-    {
       "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-06T07:00:00Z",
       "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
       "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
       "repo": "lambda-discipline/lbd-emacs-major-mode",
+      "owner": "lambda-discipline",
+      "commitCount": 2
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-06T07:00:00Z",
+      "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
+      "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
+      "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
       "owner": "lambda-discipline",
       "commitCount": 2
     },
