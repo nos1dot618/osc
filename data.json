@@ -19,6 +19,76 @@
   },
   "events": [
     {
+      "id": "commit:lambda-discipline/lambda-discipline:2026-10-19T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-10-19T07:00:00Z",
+      "title": "4 commits to lambda-discipline/lambda-discipline",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/commits",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "commitCount": 4
+    },
+    {
+      "id": "pr:https://github.com/fmhy/FMHYFilterlist/pull/53:2026-10-18T22:13:26Z",
+      "type": "pr",
+      "occurredAt": "2026-10-18T22:13:26Z",
+      "title": "feat: add uBlock pattern rule for fake streaming scam sites",
+      "url": "https://github.com/fmhy/FMHYFilterlist/pull/53",
+      "repo": "fmhy/FMHYFilterlist",
+      "owner": "fmhy",
+      "state": "open"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/80:2026-10-18T20:31:33Z",
+      "type": "pr",
+      "occurredAt": "2026-10-18T20:31:33Z",
+      "title": "feat: add tuples",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/80",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/79:2026-10-18T20:05:10Z",
+      "type": "pr",
+      "occurredAt": "2026-10-18T20:05:10Z",
+      "title": "feat: add Option and Result and make partial builtins total",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/79",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/78:2026-10-18T19:33:21Z",
+      "type": "pr",
+      "occurredAt": "2026-10-18T19:33:21Z",
+      "title": "feat: add an integer type separate from Number",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/78",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/77:2026-10-18T18:40:32Z",
+      "type": "pr",
+      "occurredAt": "2026-10-18T18:40:32Z",
+      "title": "feat: constrain eq, lt, compare and show with type classes",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/77",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "review:https://github.com/pardarsh/pardarsh-core/pull/5:2026-10-18T17:54:04Z",
+      "type": "review",
+      "occurredAt": "2026-10-18T17:54:04Z",
+      "title": "Approved review on “build(deps): bump serde_json from 1.0.151 to 1.0.154”",
+      "url": "https://github.com/pardarsh/pardarsh-core/pull/5",
+      "repo": "pardarsh/pardarsh-core",
+      "owner": "pardarsh",
+      "state": "approved"
+    },
+    {
       "id": "commit:lambda-discipline/lambda-discipline:2026-10-18T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-10-18T07:00:00Z",
@@ -616,7 +686,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/22",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/21:2026-10-17T14:37:59Z",
@@ -646,7 +716,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/19",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/18:2026-10-17T14:37:54Z",
@@ -726,7 +796,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/11",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/10:2026-10-17T14:37:39Z",
@@ -776,7 +846,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/6",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/5:2026-10-17T14:37:30Z",
@@ -1229,16 +1299,6 @@
       "commitCount": 1
     },
     {
-      "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-07T07:00:00Z",
-      "title": "1 commit to github-linguist/linguist",
-      "url": "https://github.com/github-linguist/linguist/commits",
-      "repo": "github-linguist/linguist",
-      "owner": "github-linguist",
-      "commitCount": 1
-    },
-    {
       "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-07T07:00:00Z",
@@ -1246,6 +1306,16 @@
       "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
       "repo": "lambda-discipline/lbd-jupyter-kernel",
       "owner": "lambda-discipline",
+      "commitCount": 1
+    },
+    {
+      "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-07T07:00:00Z",
+      "title": "1 commit to github-linguist/linguist",
+      "url": "https://github.com/github-linguist/linguist/commits",
+      "repo": "github-linguist/linguist",
+      "owner": "github-linguist",
       "commitCount": 1
     },
     {
@@ -1259,22 +1329,22 @@
       "state": "merged"
     },
     {
-      "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-06T07:00:00Z",
-      "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
-      "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
-      "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
-      "owner": "lambda-discipline",
-      "commitCount": 2
-    },
-    {
       "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-06T07:00:00Z",
       "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
       "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
       "repo": "lambda-discipline/lbd-emacs-major-mode",
+      "owner": "lambda-discipline",
+      "commitCount": 2
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-06T07:00:00Z",
+      "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
+      "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
+      "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
       "owner": "lambda-discipline",
       "commitCount": 2
     },
