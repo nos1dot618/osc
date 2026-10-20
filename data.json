@@ -19,14 +19,34 @@
   },
   "events": [
     {
+      "id": "pr:https://github.com/microsoft/mssql-rs/pull/753:2026-10-19T22:00:03Z",
+      "type": "pr",
+      "occurredAt": "2026-10-19T22:00:03Z",
+      "title": "fix: reconnect session recovery to the endpoint actually connected (#751)",
+      "url": "https://github.com/microsoft/mssql-rs/pull/753",
+      "repo": "microsoft/mssql-rs",
+      "owner": "microsoft",
+      "state": "open"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/81:2026-10-19T16:20:08Z",
+      "type": "pr",
+      "occurredAt": "2026-10-19T16:20:08Z",
+      "title": "feat: replace variadic print and println with ordinary functions",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/81",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
       "id": "commit:lambda-discipline/lambda-discipline:2026-10-19T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-10-19T07:00:00Z",
-      "title": "4 commits to lambda-discipline/lambda-discipline",
+      "title": "5 commits to lambda-discipline/lambda-discipline",
       "url": "https://github.com/lambda-discipline/lambda-discipline/commits",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "commitCount": 4
+      "commitCount": 5
     },
     {
       "id": "pr:https://github.com/fmhy/FMHYFilterlist/pull/53:2026-10-18T22:13:26Z",
@@ -816,7 +836,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/9",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/8:2026-10-17T14:37:36Z",
@@ -1299,16 +1319,6 @@
       "commitCount": 1
     },
     {
-      "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-07T07:00:00Z",
-      "title": "1 commit to lambda-discipline/lbd-jupyter-kernel",
-      "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
-      "repo": "lambda-discipline/lbd-jupyter-kernel",
-      "owner": "lambda-discipline",
-      "commitCount": 1
-    },
-    {
       "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-07T07:00:00Z",
@@ -1316,6 +1326,16 @@
       "url": "https://github.com/github-linguist/linguist/commits",
       "repo": "github-linguist/linguist",
       "owner": "github-linguist",
+      "commitCount": 1
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-07T07:00:00Z",
+      "title": "1 commit to lambda-discipline/lbd-jupyter-kernel",
+      "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
+      "repo": "lambda-discipline/lbd-jupyter-kernel",
+      "owner": "lambda-discipline",
       "commitCount": 1
     },
     {
