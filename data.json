@@ -19,6 +19,66 @@
   },
   "events": [
     {
+      "id": "commit:lambda-discipline/lambda-discipline:2026-10-24T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-10-24T07:00:00Z",
+      "title": "5 commits to lambda-discipline/lambda-discipline",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/commits",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "commitCount": 5
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/86:2026-10-23T21:57:17Z",
+      "type": "pr",
+      "occurredAt": "2026-10-23T21:57:17Z",
+      "title": "test: add property tests (#51)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/86",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/85:2026-10-23T21:49:00Z",
+      "type": "pr",
+      "occurredAt": "2026-10-23T21:49:00Z",
+      "title": "perf: show long lines as windows around diagnostic labels (#84)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/85",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/84:2026-10-23T21:37:03Z",
+      "type": "issue",
+      "occurredAt": "2026-10-23T21:37:03Z",
+      "title": "perf: render many diagnostics on one long line in linear time",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/issues/84",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "closed"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/83:2026-10-23T21:36:53Z",
+      "type": "pr",
+      "occurredAt": "2026-10-23T21:36:53Z",
+      "title": "test: fuzz the lexer, parser and type checker (#50)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/83",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/82:2026-10-23T19:30:08Z",
+      "type": "pr",
+      "occurredAt": "2026-10-23T19:30:08Z",
+      "title": "feat: emit warnings for likely mistakes",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/82",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
       "id": "pr:https://github.com/microsoft/mssql-rs/pull/753:2026-10-19T22:00:03Z",
       "type": "pr",
       "occurredAt": "2026-10-19T22:00:03Z",
@@ -416,7 +476,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/51",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/50:2026-10-17T14:38:54Z",
@@ -426,7 +486,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/50",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/49:2026-10-17T14:38:52Z",
@@ -486,7 +546,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/44",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/43:2026-10-17T14:38:39Z",
@@ -1319,16 +1379,6 @@
       "commitCount": 1
     },
     {
-      "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-07T07:00:00Z",
-      "title": "1 commit to lambda-discipline/lbd-jupyter-kernel",
-      "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
-      "repo": "lambda-discipline/lbd-jupyter-kernel",
-      "owner": "lambda-discipline",
-      "commitCount": 1
-    },
-    {
       "id": "commit:github-linguist/linguist:2026-09-07T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-07T07:00:00Z",
@@ -1336,6 +1386,16 @@
       "url": "https://github.com/github-linguist/linguist/commits",
       "repo": "github-linguist/linguist",
       "owner": "github-linguist",
+      "commitCount": 1
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-jupyter-kernel:2026-09-07T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-07T07:00:00Z",
+      "title": "1 commit to lambda-discipline/lbd-jupyter-kernel",
+      "url": "https://github.com/lambda-discipline/lbd-jupyter-kernel/commits",
+      "repo": "lambda-discipline/lbd-jupyter-kernel",
+      "owner": "lambda-discipline",
       "commitCount": 1
     },
     {
@@ -1349,22 +1409,22 @@
       "state": "merged"
     },
     {
-      "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-06T07:00:00Z",
-      "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
-      "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
-      "repo": "lambda-discipline/lbd-emacs-major-mode",
-      "owner": "lambda-discipline",
-      "commitCount": 2
-    },
-    {
       "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-06T07:00:00Z",
       "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
       "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
       "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
+      "owner": "lambda-discipline",
+      "commitCount": 2
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-06T07:00:00Z",
+      "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
+      "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
+      "repo": "lambda-discipline/lbd-emacs-major-mode",
       "owner": "lambda-discipline",
       "commitCount": 2
     },
