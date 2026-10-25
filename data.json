@@ -19,14 +19,64 @@
   },
   "events": [
     {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/94:2026-10-24T10:30:33Z",
+      "type": "pr",
+      "occurredAt": "2026-10-24T10:30:33Z",
+      "title": "feat: let ctrl-c interrupt evaluation in the REPL (#36)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/94",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/93:2026-10-24T10:22:09Z",
+      "type": "pr",
+      "occurredAt": "2026-10-24T10:22:09Z",
+      "title": "refactor: identify skolems by unique id instead of by name (#18)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/93",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/92:2026-10-24T09:55:57Z",
+      "type": "pr",
+      "occurredAt": "2026-10-24T09:55:57Z",
+      "title": "chore: configure lints in Cargo.toml (#59)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/92",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/91:2026-10-24T09:30:20Z",
+      "type": "pr",
+      "occurredAt": "2026-10-24T09:30:20Z",
+      "title": "test: add a bless mode for golden files (#49)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/91",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
+      "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/90:2026-10-24T09:16:34Z",
+      "type": "pr",
+      "occurredAt": "2026-10-24T09:16:34Z",
+      "title": "test: run each golden manifest as its own test (#48)",
+      "url": "https://github.com/lambda-discipline/lambda-discipline/pull/90",
+      "repo": "lambda-discipline/lambda-discipline",
+      "owner": "lambda-discipline",
+      "state": "merged"
+    },
+    {
       "id": "commit:lambda-discipline/lambda-discipline:2026-10-24T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-10-24T07:00:00Z",
-      "title": "5 commits to lambda-discipline/lambda-discipline",
+      "title": "12 commits to lambda-discipline/lambda-discipline",
       "url": "https://github.com/lambda-discipline/lambda-discipline/commits",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "commitCount": 5
+      "commitCount": 12
     },
     {
       "id": "pr:https://github.com/lambda-discipline/lambda-discipline/pull/86:2026-10-23T21:57:17Z",
@@ -396,7 +446,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/59",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/58:2026-10-17T14:39:09Z",
@@ -496,7 +546,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/49",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/48:2026-10-17T14:38:50Z",
@@ -506,7 +556,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/48",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/47:2026-10-17T14:38:47Z",
@@ -626,7 +676,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/36",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/35:2026-10-17T14:38:26Z",
@@ -806,7 +856,7 @@
       "url": "https://github.com/lambda-discipline/lambda-discipline/issues/18",
       "repo": "lambda-discipline/lambda-discipline",
       "owner": "lambda-discipline",
-      "state": "open"
+      "state": "closed"
     },
     {
       "id": "issue:https://github.com/lambda-discipline/lambda-discipline/issues/17:2026-10-17T14:37:52Z",
@@ -1409,22 +1459,22 @@
       "state": "merged"
     },
     {
-      "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
-      "type": "commit",
-      "occurredAt": "2026-09-06T07:00:00Z",
-      "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
-      "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
-      "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
-      "owner": "lambda-discipline",
-      "commitCount": 2
-    },
-    {
       "id": "commit:lambda-discipline/lbd-emacs-major-mode:2026-09-06T07:00:00Z",
       "type": "commit",
       "occurredAt": "2026-09-06T07:00:00Z",
       "title": "2 commits to lambda-discipline/lbd-emacs-major-mode",
       "url": "https://github.com/lambda-discipline/lbd-emacs-major-mode/commits",
       "repo": "lambda-discipline/lbd-emacs-major-mode",
+      "owner": "lambda-discipline",
+      "commitCount": 2
+    },
+    {
+      "id": "commit:lambda-discipline/lbd-emacs-inf-repl-mode:2026-09-06T07:00:00Z",
+      "type": "commit",
+      "occurredAt": "2026-09-06T07:00:00Z",
+      "title": "2 commits to lambda-discipline/lbd-emacs-inf-repl-mode",
+      "url": "https://github.com/lambda-discipline/lbd-emacs-inf-repl-mode/commits",
+      "repo": "lambda-discipline/lbd-emacs-inf-repl-mode",
       "owner": "lambda-discipline",
       "commitCount": 2
     },
